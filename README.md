@@ -10,7 +10,7 @@ A portfolio website made from react
 
 ## Project Images
 
-### Header Section
+### 1.Header Section
 
 ![Screenshot](./screenshots/image8.png)
 
@@ -18,11 +18,15 @@ A portfolio website made from react
 
 ![Screenshot](./screenshots/header_animation.gif)
 
-### Projects Section
+### 2.Profile Section
+
+![screenshot](./screenshots/image3.png)
+
+### 3.Projects Section
 
 ![Screenshot](./screenshots/image2.png)
 
-### Form Section
+### 4.Form Section
 
 ![Screenshot](./screenshots/image4.png)
 
